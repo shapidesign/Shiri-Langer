@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Shiri-Langer/static/css/main.1eb8292a.css",
-    "main.js": "/Shiri-Langer/static/js/main.12ed39d1.js",
+    "main.js": "/Shiri-Langer/static/js/main.e947a853.js",
     "index.html": "/Shiri-Langer/index.html",
     "main.1eb8292a.css.map": "/Shiri-Langer/static/css/main.1eb8292a.css.map",
-    "main.12ed39d1.js.map": "/Shiri-Langer/static/js/main.12ed39d1.js.map"
+    "main.e947a853.js.map": "/Shiri-Langer/static/js/main.e947a853.js.map"
   },
   "entrypoints": [
     "static/css/main.1eb8292a.css",
-    "static/js/main.12ed39d1.js"
+    "static/js/main.e947a853.js"
   ]
 }
